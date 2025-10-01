@@ -3,8 +3,6 @@ This is the boilerplate for the Rock Paper Scissors project. Instructions for bu
 
 For this challenge, you will create a program to play Rock, Paper, Scissors. A program that picks at random will usually win 50% of the time. To pass this challenge your program must play matches against four different bots, winning at least 60% of the games in each match.
 
-You will be working on this project with our Replit starter code.
-
 Start by importing the project on Replit.
 Next, you will see a .replit window.
 Select Use run command and click the Done button.
